@@ -8,5 +8,5 @@ Software Developer focused on **Clean Code** and **Productivity Tools**.
 - **Agile & Collaboration:** Scrum, Confluence Wiki & JIRA
 
 ### 🚀 Highlight Projects
-- **ZenDo:** A Flutter-based productivity app to enhance focus.
-- **AsteroidMining:** A Demo REST API with modern Spring Boot standards and clean architecture.
+- **[ZenDo](https://github.com/Checkerbeule/ZenDo):** A Flutter-based productivity app to enhance focus.
+- **[AsteroidMining](https://github.com/Checkerbeule/AsteroidMining):** A Demo REST API with modern Spring Boot standards and clean architecture.
